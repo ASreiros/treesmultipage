@@ -37,6 +37,10 @@ margin-right: 30px;
     color: #000;
 }
 
+.roofnavigation > .link:hover{
+    opacity: 0.8;
+}
+
 .container {
     background-image: url(../img/othertrees.jpg);
     margin-top: 5%;
